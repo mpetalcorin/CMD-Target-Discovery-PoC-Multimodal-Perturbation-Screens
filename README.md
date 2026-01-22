@@ -245,7 +245,7 @@ To adapt this repository to real perturbation profiling:
 
 ## Software / code repository citation
 
-**Petalcorin, M. I. R.** (2026). CMD Target Discovery PoC: Multimodal perturbation screens to high-confidence cardiometabolic disease drug target candidates (Version 1.0.0) [Computer software]. GitHub. https://https://github.com/mpetalcorin/CMD-Target-Discovery-PoC-Multimodal-Perturbation-Screens
+**Petalcorin, M. I. R.** (2026). CMD Target Discovery PoC: Multimodal perturbation screens to high-confidence cardiometabolic disease drug target candidates (Version 1.0.0) [Computer software]. GitHub. https://github.com/mpetalcorin/CMD-Target-Discovery-PoC-Multimodal-Perturbation-Screens
 
 ## References 
 Bray, M.-A., Singh, S., Han, H., Davis, C. T., Borgeson, B., Hartland, C., Kost-Alimova, M., Gustafsdottir, S. M., Gibson, C. C., & Carpenter, A. E. (2016). Cell Painting, a high-content image-based assay for morphological profiling using multiplexed fluorescent dyes. *Nature Protocols, 11*(9), 1757–1774. https://doi.org/10.1038/nprot.2016.105
